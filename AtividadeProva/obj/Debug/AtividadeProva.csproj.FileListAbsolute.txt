@@ -1,0 +1,8 @@
+C:\Users\majuh\source\repos\exercicios\AtividadeProva\obj\Debug\AtividadeProva.csproj.AssemblyReference.cache
+C:\Users\majuh\source\repos\exercicios\AtividadeProva\obj\Debug\AtividadeProva.csproj.SuggestedBindingRedirects.cache
+C:\Users\majuh\source\repos\exercicios\AtividadeProva\obj\Debug\AtividadeProva.csproj.CoreCompileInputs.cache
+C:\Users\majuh\source\repos\exercicios\AtividadeProva\bin\Debug\AtividadeProva.exe.config
+C:\Users\majuh\source\repos\exercicios\AtividadeProva\bin\Debug\AtividadeProva.exe
+C:\Users\majuh\source\repos\exercicios\AtividadeProva\bin\Debug\AtividadeProva.pdb
+C:\Users\majuh\source\repos\exercicios\AtividadeProva\obj\Debug\AtividadeProva.exe
+C:\Users\majuh\source\repos\exercicios\AtividadeProva\obj\Debug\AtividadeProva.pdb
